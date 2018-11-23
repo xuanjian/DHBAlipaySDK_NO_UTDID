@@ -134,7 +134,7 @@ Pod::Spec.new do |s|
   # s.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # s.dependency "JSONKit", "~> 1.4"
 
-  s.name         = "AlipaySDK"
+  s.name         = "DHBAlipaySDK"
   s.version      = "0.0.1"
   s.summary      = "支付宝API"
   s.homepage          = "https://github.com/xuanjian/DHBAlipaySDK_NO_UTDID.git"
